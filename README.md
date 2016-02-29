@@ -16,3 +16,6 @@ For now, the features used are as follows:
 I'm planning to add the following features (and more, probably):
 
  * Fix the animate-thingy (so that you don't need to refresh the page to run it again).
+ * Make the page look pretty.
+ * Make sure it works in other major browsers (apart from Firefox).
+ * Mobile adaptation.
